@@ -4,8 +4,8 @@ const colors = ['BLACK', 'WHITE', 'GOLD', 'PINK']
 const connection = mysql.createConnection(
     {
         host:"localhost",
-        user:"root",
-        password:"30912650",
+        user:"????????",
+        password:"????????",
         database: 'challenge_melhorcom'
     }
 );
